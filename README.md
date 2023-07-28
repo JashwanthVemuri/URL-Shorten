@@ -1,0 +1,1 @@
+URL shorteners serve the purpose of reducing URL length, concealing the domain to pique interest in the link's destination. As a result, users are more likely to click on the link to discover its underlying content, which remains hidden until visited.
